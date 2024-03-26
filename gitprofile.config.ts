@@ -52,8 +52,8 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
-    description: '',
+    title: 'Kathirvel | Portfolio',
+    description: 'This website is my personal portfolio, where you can find my details.',
     imageURL: '',
   },
   social: {
