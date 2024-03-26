@@ -95,40 +95,58 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
-      to: 'Present',
-      companyLink: 'https://example.com',
+      company: 'Fujitsu Consulting India Pvt Ltd',
+      position: 'RPA Developer Trainee',
+      from: 'Jan 2022',
+      to: 'Apr 2023',
+      companyLink: 'https://www.fujitsu.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'MasTec QuadGen',
+      position: 'RPA Developer',
+      from: 'May 2023',
+      to: 'Present',
+      companyLink: 'https://quadgen.com/',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
+      name: 'RPA Developer Advanced (v2020.10)',
+      body: 'UiPath Academy',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+    {
+      name: 'RPA Business Analyst Foundation',
+      body: 'UiPath Academy',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+    {
+      name: 'UiPath Test Suit',
+      body: 'UiPath Academy',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+    {
+      name: 'Post Graduate Diploma in Industrial Automation',
+      body: 'Wartens Technologies, Bengaluru',
+      year: 'March 2022',
+      link: 'https://example.com',
+    },
+    {
+      name: 'Programming with Python 3.X',
+      body: 'Simplilearn (Online)',
       year: 'March 2022',
       link: 'https://example.com',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
+      institution: 'Karpagam Institute of Technology',
+      degree: 'BE - Electrical and Electronics Engineering (CGPA - 7)',
       from: '2015',
       to: '2019',
-    },
-    {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
     },
   ],
   publications: [
@@ -229,7 +247,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a 
+/*  footer: `Made with <a 
       class="text-primary" href="https://github.com/arifszn/gitprofile"
       target="_blank"
       rel="noreferrer"
@@ -237,5 +255,17 @@ const CONFIG = {
 
   enablePWA: true,
 };
+*/
+
+
+  footer: `Made with ❤️ by <a 
+      class="text-primary" href="https://github.com/KathirRPA"
+      target="_blank"
+      rel="noreferrer"
+    >Kathir</a>`,
+
+  enablePWA: true,
+};
+
 
 export default CONFIG;
